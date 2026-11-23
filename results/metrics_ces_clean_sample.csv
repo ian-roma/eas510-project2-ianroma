@@ -1,0 +1,5 @@
+model,data,accuracy,precision,recall,f1
+dummy,train 2010-2020,0.579,0.579,1.0,0.733
+dummy,test 2022+2024,0.593,0.593,1.0,0.744
+tree_one,train 2010-2020,1.0,1.0,0.999,1.0
+tree_one,test 2022+2024,0.721,0.758,0.779,0.768
